@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Software Engineering Devlopment and AI
 - ✉️ How to reach me at nadineSalem2004@gmail.com with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!
-- skills: C, C++, MATLAB, Microsoft, 
+- skills: C, C++, MATLAB, Microsoft Office, Adobe Creative Suite.
 
 <!---
 nadinesalem210/nadinesalem210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
